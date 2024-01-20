@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class LongestSubstring {
     public static int lengthOfLongestSubstring(String s) {
